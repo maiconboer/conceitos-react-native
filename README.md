@@ -1,4 +1,4 @@
-## Desafio sobre conceitos React-Native - Bootcamp GoStack - :calling:
+## Desafio sobre conceitos React-Native - Bootcamp GoStack - :atom_symbol:
 
 
 <img src=".github/GoStack.png"/>
