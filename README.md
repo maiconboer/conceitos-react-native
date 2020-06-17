@@ -1,4 +1,4 @@
-## Desafio sobre conceitos React-Native - Bootcamp GoStack 
+## Desafio sobre conceitos React-Native - Bootcamp GoStack - :calling:
 
 
 <img src=".github/GoStack.png"/>
